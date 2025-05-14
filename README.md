@@ -50,8 +50,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
  Qbar=R|((~S) & (Qbar));
  end endmodule
 ```
-Developed by: Punniyakotti M
-RegisterNumber: 24006503
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
